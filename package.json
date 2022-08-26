@@ -1,0 +1,19 @@
+{
+  "name": "crabackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "nodemon server.js"
+  },
+  "author": "junaid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.195.0",
+    "uuid": "^8.3.2"
+  }
+}

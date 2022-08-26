@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "61c75bfba0f45dd125919684"
+  },
+  "car": {
+    "$oid": "61b7a8e34a2b2b3b4e688e0f"
+  },
+  "user": {
+    "$oid": "61c0c83ed9a111e5b6ef0586"
+  },
+  "bookedTimeSlots": {
+    "from": "Dec 21 2021 22:59",
+    "to": "Dec 22 2021 22:59"
+  },
+  "totalHours": 24,
+  "totalAmount": 4800,
+  "transactionId": "1234",
+  "driverRequired": false,
+  "createdAt": {
+    "$date": "2021-12-25T17:59:23.885Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T17:59:23.885Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75c2f033d652c0ae267f7"
+  },
+  "car": {
+    "$oid": "61b7a8e34a2b2b3b4e688e0f"
+  },
+  "user": {
+    "$oid": "61c0c83ed9a111e5b6ef0586"
+  },
+  "bookedTimeSlots": {
+    "from": "Dec 20 2021 23:00",
+    "to": "Dec 22 2021 23:00"
+  },
+  "totalHours": 48,
+  "totalAmount": 9600,
+  "transactionId": "1234",
+  "driverRequired": false,
+  "createdAt": {
+    "$date": "2021-12-25T18:00:15.988Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T18:00:15.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76efe033d652c0ae26832"
+  },
+  "car": {
+    "$oid": "61b7a86c4a2b2b3b4e688e09"
+  },
+  "user": {
+    "$oid": "61c0c83ed9a111e5b6ef0586"
+  },
+  "bookedTimeSlots": {
+    "from": "Dec 15 2021 03:20",
+    "to": "Dec 15 2021 10:20"
+  },
+  "totalHours": 7,
+  "totalAmount": 700,
+  "transactionId": "1234",
+  "driverRequired": false,
+  "createdAt": {
+    "$date": "2021-12-25T19:20:30.561Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T19:20:30.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c77106033d652c0ae2684c"
+  },
+  "car": {
+    "$oid": "61b7a8e34a2b2b3b4e688e0f"
+  },
+  "user": {
+    "$oid": "61c0c83ed9a111e5b6ef0586"
+  },
+  "bookedTimeSlots": {
+    "from": "Dec 25 2021 01:28",
+    "to": "Dec 25 2021 03:29"
+  },
+  "totalHours": 2,
+  "totalAmount": 400,
+  "transactionId": "1234",
+  "driverRequired": false,
+  "createdAt": {
+    "$date": "2021-12-25T19:29:10.285Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T19:29:10.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c77122033d652c0ae26857"
+  },
+  "car": {
+    "$oid": "61b7a8e34a2b2b3b4e688e0f"
+  },
+  "user": {
+    "$oid": "61c0c83ed9a111e5b6ef0586"
+  },
+  "bookedTimeSlots": {
+    "from": "Dec 25 2021 06:29",
+    "to": "Dec 25 2021 09:29"
+  },
+  "totalHours": 3,
+  "totalAmount": 600,
+  "transactionId": "1234",
+  "driverRequired": false,
+  "createdAt": {
+    "$date": "2021-12-25T19:29:38.732Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T19:29:38.732Z"
+  },
+  "__v": 0
+}]
